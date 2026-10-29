@@ -78,9 +78,9 @@ This project is deployed live using Render!
 
 Feel free to check out my other stuff or connect!
 
-* **GitHub:** [Necro-Rohan](https://github.com/Necro-Rohan)
-* **LinkedIn:** [Rohan Kumar](https://www.linkedin.com/in/rohan-kumar-2b2ab9326/)
-* **Instagram:** [rohan_gupta_c53](https://www.instagram.com/rohan_gupta_c53/)
+* **GitHub:** [T MONIKA](https://github.com/TMonika-1)
+* **LinkedIn:** [T Monika](https://www.linkedin.com/in/t-monika88/)
+* **Instagram:** [monikatechie](https://www.instagram.com/monikatechie?stkn=MXh2emJpNjdsd3BkaQ%3D%3D)
 
 ---
 
