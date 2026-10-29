@@ -1,4 +1,4 @@
-# Taste Maker 🍲
+# Smart AI Recipe Maker 🍲
 
 Ever stare into your fridge full of ingredients and have *no idea* what to actually cook? Yeah, me too. That's why I built Taste Maker!
 
@@ -29,7 +29,7 @@ Want to run it yourself? Cool!
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/Necro-Rohan/Taste-Maker.git](https://github.com/Necro-Rohan/Taste-Maker.git)
+    git clone [https://github.com/TMonika-1/Smart-AI-Recipe-Maker.git](https://github.com/TMonika-1/Smart-AI-Recipe-Maker.git)
     cd Taste-Maker
     ```
 
